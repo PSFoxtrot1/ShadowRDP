@@ -1,4 +1,5 @@
-this console utility to connect to Windows 10-11/Windows Server users via Shadow RDP
+this console utility to connect to Windows 10-11/Windows Server users via Shadow RDP 
+
 using mstsc.exe + quser.exe + powershell variables
 
 to connect to windows 10\11 users, you first need to configure 4 step:
